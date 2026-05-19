@@ -1,2 +1,30 @@
-# CourseHub-Java-Desktop-App
-Java desktop application with AI-powered course recommendations and SQL Server integration.
+# CourseHub - Java Desktop Application
+
+CourseHub is a Java desktop application developed using Java Swing and SQL Server.  
+The platform connects students with academies and provides AI-powered course recommendations.
+
+## Features
+- User authentication and role-based access
+- Course and academy management
+- AI-powered course recommendations
+- SQL Server database integration
+- Interactive GUI using Java Swing
+
+## Technologies Used
+- Java Swing
+- JDBC
+- SQL Server
+- OpenAI API
+- NetBeans
+
+## Project Structure
+- Source Code
+- Database Script
+- Screenshots
+
+## Database
+The SQL Server database script is included in:
+`coursehub_database.sql`
+
+## Status
+Completed as a summer training project.
