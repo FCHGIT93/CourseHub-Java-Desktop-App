@@ -26,5 +26,8 @@ The platform connects students with academies and provides AI-powered course rec
 The SQL Server database script is included in:
 `coursehub_database.sql`
 
+## Screenshots
+Screenshots of the application interface are included in the `screenshots` folder.
+
 ## Status
 Completed as a summer training project.
